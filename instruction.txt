@@ -1,0 +1,21 @@
+There are 2 types of HTML Elements
+1. Inline Tags
+				Same line
+				eg. <span>
+2. Block Level Tags
+				Starts From new LIne
+				eg. <div>
+							<li> = list items
+
+
+Multi Cursor Editing (VS Code editor)
+select
+Ctrl + d
+
+
+
+fontawesome cdn
+
+cdn = content delivery network
+
+cdn link = internet wala link
